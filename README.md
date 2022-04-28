@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://rck.imgix.net/vtGC59iQ50CPrEz2aLNKSw/images/sAGiHOO2pEiTU4AJCZZteA.gif" width="400"/>
 
-### Sobre mim
+### Sobre mim:
  - 👤 Eu me chamo Jaqueline Caye, mas podem me chamar de Jaque
  - 📌 Resido no município de Chapecó/SC
  - 🎓 Sou formada em Engenharia Ambiental e Sanitária pela Universidade Federal da Fronteira Sul
@@ -10,7 +10,7 @@
  - 💻 Descobri minha paixão pela programação em junho de 2021
  - 📚 Atuamente estou cursando a formação intensiva da Driven Education para me tornar uma Dev Full Stack
  - 👩🏽‍💻 No momento estou iniciando meus estudos em Single-Page Applications
- - 😄 Pronouns: Ela/Dela
+ - 😄 Pronomes: Ela/Dela
 
 ### Linguagens e Ferramentas:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
