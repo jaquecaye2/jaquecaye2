@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="400"/>
 
 ### Sobre mim
  - 👤 Eu me chamo Jaqueline Caye, mas podem me chamar de Jaque
