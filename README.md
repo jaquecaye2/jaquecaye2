@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-<img align="right" alt="GIF" src="https://rck.imgix.net/vtGC59iQ50CPrEz2aLNKSw/images/sAGiHOO2pEiTU4AJCZZteA.gif" width="400"/>
+<img align="right" alt="GIF" src="https://rck.imgix.net/vtGC59iQ50CPrEz2aLNKSw/images/sAGiHOO2pEiTU4AJCZZteA.gif" width="300"/>
 
 ### Sobre mim:
  - 👤 Eu me chamo Jaqueline Caye, mas podem me chamar de Jaque
@@ -23,9 +23,6 @@
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 
-
-<br/>
-<br/>
 <br/>
 
 ### Redes Sociais:
