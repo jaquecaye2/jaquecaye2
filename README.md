@@ -6,10 +6,9 @@
  - 👤 Eu me chamo Jaqueline Caye, mas podem me chamar de Jaque
  - 📌 Resido no município de Chapecó/SC
  - 🎓 Sou formada em Engenharia Ambiental e Sanitária pela Universidade Federal da Fronteira Sul
- - ♻️ Estou atuando na minha área de formação no setor de Pesquisa e Desenvolvimento da Kemia Tratamento de Efluentes
  - 💻 Descobri minha paixão pela programação em junho de 2021
  - 📚 Atuamente estou cursando a formação intensiva da Driven Education para me tornar uma Dev Full Stack
- - 👩🏽‍💻 No momento estou iniciando meus estudos em Single-Page Applications
+ - 👩🏽‍💻 No momento estou iniciando meus estudos em Back-ends e APIs
  - 😄 Pronomes: Ela/Dela
 
 ### Linguagens e Ferramentas:
