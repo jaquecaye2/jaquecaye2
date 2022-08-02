@@ -8,7 +8,7 @@
  - 🎓 Sou formada em Engenharia Ambiental e Sanitária pela Universidade Federal da Fronteira Sul
  - 💻 Descobri minha paixão pela programação em junho de 2021
  - 📚 Atuamente estou cursando a formação intensiva da Driven Education para me tornar uma Dev Full Stack
- - 👩🏽‍💻 No momento estou iniciando meus estudos em Back-ends e APIs
+ - 👩🏽‍💻 No momento estou iniciando meus estudos em Bancos de Dados e Modelagem
  - 😄 Pronomes: Ela/Dela
 
 ### Linguagens e Ferramentas:
@@ -20,6 +20,8 @@
 <img align="left" alt="WebPack" width="26px" src="https://simpleicons.org/icons/webpack.svg" />
 <img align="left" alt="NodeJS" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />
 <img align="left" alt="Express" width="26px" src="https://simpleicons.org/icons/express.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 
