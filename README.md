@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-<img align="right" alt="GIF" src="https://rck.imgix.net/vtGC59iQ50CPrEz2aLNKSw/images/sAGiHOO2pEiTU4AJCZZteA.gif" width="350"/>
+<img align="right" alt="GIF" src="https://rck.imgix.net/vtGC59iQ50CPrEz2aLNKSw/images/sAGiHOO2pEiTU4AJCZZteA.gif" width="300"/>
 
 ### Sobre mim:
  - 👤 Eu me chamo Jaqueline Caye, mas podem me chamar de Jaque
