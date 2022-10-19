@@ -33,7 +33,7 @@
 <br/>
 
 ### Contato:
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jaquecaye/) ou pelo [LinkedIn](https://www.linkedin.com/in/jaqueline-caye-614449137/) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios 😀
+📫 Você pode falar comigo pelo [LinkedIn](https://www.linkedin.com/in/jaqueline-caye-614449137/) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios 😀
 
 #
 <p align="center">
