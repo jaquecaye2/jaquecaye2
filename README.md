@@ -34,7 +34,7 @@
 
 ### Contato:
 <a href="https://www.linkedin.com/in/jaqueline-caye/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="jaquelinecaye@gmail.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto: jaquelinecaye@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5555997048940&text=Ol%C3%A1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 #
