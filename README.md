@@ -1,39 +1,41 @@
-## Hello Devs 👋
+## Hello 👋
 
 <img align="right" alt="GIF" src="https://rck.imgix.net/vtGC59iQ50CPrEz2aLNKSw/images/sAGiHOO2pEiTU4AJCZZteA.gif" width="300"/>
 
 ### Sobre mim:
  - 👤 Eu me chamo Jaqueline Caye, mas podem me chamar de Jaque
  - 📌 Resido no município de Chapecó/SC
- - 💻 Descobri minha paixão pela programação em junho de 2021
+ - 💻 Descobri minha paixão pela programação em 2021 e a cada dia estou mais realizada e com mais vontade de aprender
  - 📚 Atuamente estou cursando a formação intensiva da Driven Education
  - 👩🏽‍💻 No momento estou iniciando meus estudos em Arquitetura e Boas Práticas
  - 😄 Pronomes: Ela/Dela
+ - 
 
 <br/>
 
 ### Linguagens e Ferramentas:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" title="Visual Studio Code"/>
-<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/349402/html5.svg" title="HTML5"/>
-<img align="left" alt="CSS3" width="26px" src="https://www.svgrepo.com/show/373535/css.svg" title="CSS3"/>
-<img align="left" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/355081/js.svg" title="JavaScript"/>
-<img align="left" alt="TypeScript" width="26px" src="https://www.svgrepo.com/show/349540/typescript.svg" title="TypeScript"/>
-<img align="left" alt="React" width="26px" src="https://www.svgrepo.com/show/354259/react.svg" title="React"/>
-<img align="left" alt="WebPack" width="26px" src="https://www.svgrepo.com/show/354552/webpack.svg" title="WebPack"/>
-<img align="left" alt="NodeJS" width="26px" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" title="NodeJS"/>
-<img align="left" alt="Express" width="26px" src="https://www.svgrepo.com/show/330398/express.svg" title="Express"/>
-<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/373845/mongo.svg" title="MongoDB"/>
-<img align="left" alt="PostgreSQL" width="26px" src="https://www.svgrepo.com/show/354200/postgresql.svg" title="PostgreSQL"/>
-<img align="left" alt="Prisma" width="26px" src="https://www.svgrepo.com/show/373776/light-prisma.svg" title="Prisma"/>
-<img align="left" alt="Git" width="26px" src="https://www.svgrepo.com/show/353782/git-icon.svg" title="Git"/>
-<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/341847/github.svg" title="GitHub"/>
-<img align="left" alt="Cypress" width="26px" src="https://www.svgrepo.com/show/305923/cypress.svg" title="Cypress"/>
-<img align="left" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" title="Jest"/>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br/>
 
 ### Contato:
-📫 Você pode falar comigo pelo [LinkedIn](https://www.linkedin.com/in/jaqueline-caye-614449137/) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios 😀
+📫 Você pode falar comigo pelo [LinkedIn](https://www.linkedin.com/in/jaqueline-caye) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios 😀
 
 #
 <p align="center">
