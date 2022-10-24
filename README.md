@@ -1,17 +1,20 @@
-## 💜 Olá, meu nome é <strong>Jaqueline!</strong>
+## 💚 Olá, meu nome é <strong>Jaqueline!</strong>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Computador iuriCode">
+<img src="https://lh3.googleusercontent.com/2HkNAt9sxseNVayeaGP5VkDh1wFdM3Tzk5mRxp7v8mbt1WIBgPfli0pj1uKFMMl9YmKMUaKJpiB4EP7HGz-DSQLwTsYK1oIlbaPLmW_-7Iox0BjDWizUrpNxsYK6vOAJz3gzoJUgL4d8kiacnhlOdaH1SnmpjvGqw3gUuGJAm8ELiJyfJq7pxf0COywgzjMu5wYRqUShgC4ZJJDsv5GhgbG_yNdiDedVJvJ4BcOd3_IH_9e70elWM7La-DbCAVB_Y_OZSszOLE-XlwW791Vn_C6ej8vUKrKgp_37ANbcQxQ9phdgKR4Rdu-eZuxbnXjqHC2u5alw9IqlAOHuFa2qAtXuSBNrB0s7VkjA8ARfGpfqWyuRo6FVkULPjPeA6NJR_3ixKEQSX92yr4JtNe3LFc8njkzuHydFrb2S1hlGU6WE5YjdQOSUAUIlmtgA2BOAwdxxv9l8tzY9fXDFdQ7gc2flP80KicbW1O7UYbkvW7OUUQpUh1Za5rpjX0NlbSg5gnGrjIYfdk_VtWNnSrmTPsSEPEnD4ptkyg4gyIEfh9gPK12qmlcJlvsS6ka6fZlpw1h4WN48RwGy46ijzr0ts_xDb4-VdpsT6Qa9-ftuo0aqMOVAWR0OBbsYbz_4wEtqsfaAMYe2F86-9EFnFLwHgTh1Kwenfa6VVxsyT-Y-1o3c7-85sp0U2oAZbRDlY2ACGfqCm3SUnFujCrLDQxXs5iqrMLVhqtQZPujeEDNBQk2j_S002K9BqvwWpmKaVzdJ2yVpYkDp6Ok3S1n0t9-eT7VvbXrus_QMas6_8UqaClClYDrOpmlIPpJIJrTRDx3r8QO24Hwmb9WyV53fUipuUI4pYFBOjcQ9ioOMBnsVAn9OsGTXsYyizku7r7bEbmWv8SICu-GgBREFisrkhX4aiQ9cRcvLc9x8ngF9WyHfdAQ8mWdL6Yfauzl_4EuMCqckKnISwisNrfzWWEC4JaTbQdcNs2tqmLyRES3Ts8R1-af2DdU8pDfW3agh=s500-no?authuser=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Sobre mim:
-📌 Resido no município de Chapecó/SC
+<p align="left" margin='20px'> 
+  📌 Resido no município de Chapecó/SC
 
-🎓 Sou formada em Engenharia Ambiental e Sanitária pela Universidade Federal da Fronteira Sul
+  🎓 Sou formada em Engenharia Ambiental e Sanitária pela Universidade Federal da Fronteira Sul
 
-💻 Descobri minha paixão pela programação em 2021 e a cada dia estou mais realizada e com mais vontade de aprender
+  💻 Descobri minha paixão pela programação em 2021 e a cada dia estou mais realizada e com mais vontade de aprender
 
-📚 Em março de 2022 ingressei no bootcamp da Driven Education de desenvolvimento Web Full Stack e desde então pude absorver diversos conhecimentos tanto em hard skills quanto em soft skills, além de ter feito muitos projetos individuais e em grupo, que puderam consolidar todos esses conhecimentos obtidos
+  📚 Em março de 2022 ingressei no bootcamp da Driven Education de desenvolvimento Web Full Stack e desde então pude absorver diversos conhecimentos tanto em hard skills quanto em soft skills, além de ter feito muitos projetos individuais e em grupo, que puderam consolidar todos esses conhecimentos obtidos
 
-😄 Pronomes: Ela/Dela
+  😄 Pronomes: Ela/Dela
+</p>
+
 
 ### Linguagens e Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
