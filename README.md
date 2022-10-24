@@ -4,8 +4,6 @@
 
 ### Sobre mim:
 <p align="left" margin='20px'> 
-  📌 Resido no município de Chapecó/SC
-
   🎓 Sou formada em Engenharia Ambiental e Sanitária pela Universidade Federal da Fronteira Sul
 
   💻 Descobri minha paixão pela programação em 2021 e a cada dia estou mais realizada e com mais vontade de aprender
