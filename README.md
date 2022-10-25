@@ -1,6 +1,6 @@
-## 💚 Olá, meu nome é <strong>Jaqueline!</strong>
+## 💜 Olá, meu nome é <strong>Jaqueline!</strong>
 
-<img src="https://lh3.googleusercontent.com/2HkNAt9sxseNVayeaGP5VkDh1wFdM3Tzk5mRxp7v8mbt1WIBgPfli0pj1uKFMMl9YmKMUaKJpiB4EP7HGz-DSQLwTsYK1oIlbaPLmW_-7Iox0BjDWizUrpNxsYK6vOAJz3gzoJUgL4d8kiacnhlOdaH1SnmpjvGqw3gUuGJAm8ELiJyfJq7pxf0COywgzjMu5wYRqUShgC4ZJJDsv5GhgbG_yNdiDedVJvJ4BcOd3_IH_9e70elWM7La-DbCAVB_Y_OZSszOLE-XlwW791Vn_C6ej8vUKrKgp_37ANbcQxQ9phdgKR4Rdu-eZuxbnXjqHC2u5alw9IqlAOHuFa2qAtXuSBNrB0s7VkjA8ARfGpfqWyuRo6FVkULPjPeA6NJR_3ixKEQSX92yr4JtNe3LFc8njkzuHydFrb2S1hlGU6WE5YjdQOSUAUIlmtgA2BOAwdxxv9l8tzY9fXDFdQ7gc2flP80KicbW1O7UYbkvW7OUUQpUh1Za5rpjX0NlbSg5gnGrjIYfdk_VtWNnSrmTPsSEPEnD4ptkyg4gyIEfh9gPK12qmlcJlvsS6ka6fZlpw1h4WN48RwGy46ijzr0ts_xDb4-VdpsT6Qa9-ftuo0aqMOVAWR0OBbsYbz_4wEtqsfaAMYe2F86-9EFnFLwHgTh1Kwenfa6VVxsyT-Y-1o3c7-85sp0U2oAZbRDlY2ACGfqCm3SUnFujCrLDQxXs5iqrMLVhqtQZPujeEDNBQk2j_S002K9BqvwWpmKaVzdJ2yVpYkDp6Ok3S1n0t9-eT7VvbXrus_QMas6_8UqaClClYDrOpmlIPpJIJrTRDx3r8QO24Hwmb9WyV53fUipuUI4pYFBOjcQ9ioOMBnsVAn9OsGTXsYyizku7r7bEbmWv8SICu-GgBREFisrkhX4aiQ9cRcvLc9x8ngF9WyHfdAQ8mWdL6Yfauzl_4EuMCqckKnISwisNrfzWWEC4JaTbQdcNs2tqmLyRES3Ts8R1-af2DdU8pDfW3agh=s500-no?authuser=1" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://thumbs.gfycat.com/TastyRepulsiveIndusriverdolphin.webp" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 ### Sobre mim:
 <p align="left" margin='20px'> 
